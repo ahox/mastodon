@@ -3,6 +3,11 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
+## [3.4.3+fix.1] - 2021-11-12
+### Fixed
+
+- Fix transition from modal windows in web UI ([ahox](https://github.com/petit-rabbits/mastodon/pull/2))
+
 ## [3.4.3] - 2021-11-06
 ### Fixed
 
